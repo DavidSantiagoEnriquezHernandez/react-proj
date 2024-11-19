@@ -1,1 +1,1 @@
-<h1>A collection of projects that I made to practice Reac</h1>
+<h3>A collection of projects that I made to practice React</h3>
